@@ -13,10 +13,10 @@
             double Tong = a + b;
             double Hieu = a - b;
             double Tich = a * b;
-            Console.WriteLine("Thuong la: ", Thuong);
-            Console.WriteLine("Tong la: ", Tong);
-            Console.WriteLine("Hieu la: ", Hieu);
-            Console.WriteLine("Tich la: ", Tich);
+            Console.WriteLine("Thuong la: " + Thuong);
+            Console.WriteLine("Tong la: " + Tong);
+            Console.WriteLine("Hieu la: " + Hieu);
+            Console.WriteLine("Tich la: " + Tich);
         }
     }
 }
